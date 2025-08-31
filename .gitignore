@@ -1,0 +1,9 @@
+# Raw data (keep big CSVs out of Git)
+data/*.csv
+
+# Jupyter noise
+.ipynb_checkpoints/
+
+# OS trash
+.DS_Store
+Thumbs.db
