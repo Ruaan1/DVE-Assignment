@@ -4,6 +4,9 @@ data/*.csv
 # Jupyter noise
 .ipynb_checkpoints/
 
+# Environment
+DVEenv
+
 # OS trash
 .DS_Store
 Thumbs.db
